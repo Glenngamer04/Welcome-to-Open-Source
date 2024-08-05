@@ -1716,6 +1716,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+           <td align="center">
+                <a href="https://github.com/Glenngamer04">
+                    <img src="https://avatars.githubusercontent.com/u/156823878?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Jatin</b></sub>
+                </a>
+            </td>
+
         </tr>
     </tbody>
 </table>
